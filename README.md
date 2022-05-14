@@ -11,17 +11,16 @@
 - HTML
 - CSS
 
-#### [Source Code](https://github.com/AngomRanjan/Profile-Bootstrap.git)
+#### [Source Code](git@github.com:sajid-munawar/Portfolio-Bootstrap.git)
 
-#### [Live Demo](https://angomranjan.github.io/Profile-Bootstrap/)
+#### [Live Demo](https://sajid-munawar.github.io/Portfolio-Bootstrap/)
 
 ## Authors
 
-👤 Angom Chittaranjan
+👤 Sajid Munawar
 
-- GitHub: [@AngomRanjan](https://github.com/AngomRanjan)
-- Twitter: [@RanjanAngom](https://twitter.com/RanjanAngom)
-- LinkedIn: [angom-chittaranjan](https://linkedin.com/in/angom-chittaranjan)
+- GitHub: [@SajidMunawar](https://github.com/sajid-munawar)
+
 
 ## 🤝 Contributing
 
@@ -37,7 +36,3 @@ Give a ⭐️ if you like this project!
 
 - Microverse Team
 - My Family
-
-## 📝 License
-
-This project is ANGOM licensed.
